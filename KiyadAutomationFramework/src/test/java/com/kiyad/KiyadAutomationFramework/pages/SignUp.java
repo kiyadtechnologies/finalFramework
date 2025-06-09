@@ -19,6 +19,7 @@ public class SignUp {
 	public static String confirmPasswordInput="//input[@name='confirmPassword']";
    
 	public static String abc="//input[@name='confirmPassword']";
+	public static String xyz="//input[@name='confirmPassword']";
 	
 	
 	
